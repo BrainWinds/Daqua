@@ -13,7 +13,7 @@ To use daqua, you need to install it by using pip.
 You need to have numpy and pandas installed in your system for using daqua.
 
 
-### Getting started.
+### Getting started
 
 ```
 # importing the package
